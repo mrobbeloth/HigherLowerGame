@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VestaBoard_Java_API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/VestaBoard_Java_API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
